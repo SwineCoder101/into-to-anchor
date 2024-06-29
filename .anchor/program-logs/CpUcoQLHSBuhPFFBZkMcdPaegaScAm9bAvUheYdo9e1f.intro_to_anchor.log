@@ -1,0 +1,10 @@
+Streaming transaction logs mentioning CpUcoQLHSBuhPFFBZkMcdPaegaScAm9bAvUheYdo9e1f. Confirmed commitment
+Transaction executed in slot 3:
+  Signature: 2oZZj7Bkvcokjyz4rYe6f5TpgbBcfrZV2NEdGBs8FjRsyetta5KfpjAmVPf11bxhqtGNW1EUHPB7m5gwDexdgAHp
+  Status: Ok
+  Log Messages:
+    Program CpUcoQLHSBuhPFFBZkMcdPaegaScAm9bAvUheYdo9e1f invoke [1]
+    Program log: Instruction: Initialize
+    Program log: Greetings from: CpUcoQLHSBuhPFFBZkMcdPaegaScAm9bAvUheYdo9e1f
+    Program CpUcoQLHSBuhPFFBZkMcdPaegaScAm9bAvUheYdo9e1f consumed 11919 of 200000 compute units
+    Program CpUcoQLHSBuhPFFBZkMcdPaegaScAm9bAvUheYdo9e1f success

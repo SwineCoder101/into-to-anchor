@@ -1,0 +1,12 @@
+/Users/liam/dev/intro-to-anchor/target/debug/deps/libbitflags-03ab01f2462f2cdc.rmeta: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/iter.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/parser.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/traits.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/public.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/internal.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external/serde.rs
+
+/Users/liam/dev/intro-to-anchor/target/debug/deps/bitflags-03ab01f2462f2cdc.d: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/iter.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/parser.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/traits.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/public.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/internal.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external/serde.rs
+
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/lib.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/iter.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/parser.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/traits.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/public.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/internal.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external/serde.rs:

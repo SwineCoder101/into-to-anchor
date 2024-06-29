@@ -1,0 +1,11 @@
+/Users/liam/dev/intro-to-anchor/target/debug/deps/libark_serialize-f0279bc32977ca86.rmeta: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/Users/liam/dev/intro-to-anchor/target/debug/deps/libark_serialize-f0279bc32977ca86.rlib: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/Users/liam/dev/intro-to-anchor/target/debug/deps/ark_serialize-f0279bc32977ca86.d: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md:

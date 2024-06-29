@@ -1,0 +1,10 @@
+/Users/liam/dev/intro-to-anchor/target/debug/deps/libserde_bytes-0fb0d39ad62fd637.rmeta: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/Users/liam/dev/intro-to-anchor/target/debug/deps/serde_bytes-0fb0d39ad62fd637.d: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs:

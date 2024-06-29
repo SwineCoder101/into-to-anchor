@@ -1,0 +1,13 @@
+/Users/liam/dev/intro-to-anchor/target/debug/deps/libzerocopy-38b4791a12a92a1e.rmeta: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macros.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macro_util.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/post_monomorphization_compile_fail_tests.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/util.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/third_party/rust/layout.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/wrappers.rs
+
+/Users/liam/dev/intro-to-anchor/target/debug/deps/zerocopy-38b4791a12a92a1e.d: /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/lib.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macros.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macro_util.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/post_monomorphization_compile_fail_tests.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/util.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/third_party/rust/layout.rs /Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/wrappers.rs
+
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/lib.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macros.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macro_util.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/post_monomorphization_compile_fail_tests.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/util.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/third_party/rust/layout.rs:
+/Users/liam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.34
